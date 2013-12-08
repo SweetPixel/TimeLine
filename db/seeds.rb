@@ -13,4 +13,4 @@ Event.create(title: "Got accepted at UET", when: DateTime.new(2006,10,15), descr
 Event.create(title: "Started Working at Welltime Ltd. UK", when: DateTime.new(2010,9,15), description: "I got a job as a software engineer at Welltime, where I sharpened my saw and help create some amazing software.")
 Event.create(title: "Graduated from UET", when: DateTime.new(2010,12,10), description: "I received my BS(CS) Hons. degree with a 3.46 CGPA from UET. I never felt so motivated before.")
 Event.create(title: "Became a Database Officer at IRC", when: DateTime.new(2012,12,1), description: "I quit my job at Welltime to work more closely on data and got high perks job as a DBO at International Rescue Committee.")
-Event.create(title: "SweetPixel Studios", when: DateTime.new(2013,06,12), description: "I became a fulltime entrepreneur and started working on my own company.")
+Event.create(title: "SweetPixel Studios", when: DateTime.new(2012,12,5), description: "I became a fulltime entrepreneur and started working on my own company.")
